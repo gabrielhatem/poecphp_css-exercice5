@@ -1,0 +1,23 @@
+h1 {
+    color: orange;
+}
+h2 {
+    font-style: italic;
+}
+.margin
+{
+border: dotted 5px red;
+}
+p{
+    border: 10px solid blue;
+  }
+a:hover {
+      text-decoration: none;
+      color: red;
+  }
+a {
+    color: violet;
+}
+hr {
+    border-top : 10px solid red;
+}
